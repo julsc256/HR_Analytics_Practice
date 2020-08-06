@@ -1,0 +1,37 @@
+# Introduction
+                                                 **Business Problem**
+
+
+“Take care of your employees and in return, they will surely take care of your customers”
+
+
+
+Employee turnover otherwise called Attrition is a costly affair.
+
+It costs American industry billions of dollars each year. It affects both the public and private sectors alike. These financial costs are both direct (incurring extra costs for rehiring, unemployment taxes) and indirect (Reduced productivity as new employees take a substantial amount of time to reach competent levels of job performance).
+
+Organizations worldwide face a problem of hiring and retaining talented employees and at the same time deal with losing talented employees. Reasons can be anywhere between downturns in the industry and voluntary attrition.
+
+To tackle this problem companies have started devising innovative business models which include data analytics and machine learning algorithms. This helps organization leaders and
+
+Human Resource (HR) managers to foresee and take proactive action for retention or plan for succession.
+
+
+
+There are tons of factors on which attrition depends.
+
+
+
+Organizations are getting progressively aware of the factors that can keep an employee engaged. Also, with the right application of data analytics, Human Resource Management is able to come up with effective strategies of Talent Retention.
+
+
+
+After this Project you will be able to predict Employee Turnover aka Employee Attrition.
+
+
+
+We will use 2 different ensemble models to predict employee turnover. One is Random Forest and the other is Gradient Boosting Decision Trees (GBDT).
+
+
+
+We have created a very simple structure of the hands-on in order to understand employee turnover and how to predict it. If an organization is unable to effectively predict employee turnover, then they will not be able to come up with any good retention strategies.
