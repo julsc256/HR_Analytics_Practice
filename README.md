@@ -1,4 +1,4 @@
-# HR_Analystics_Practice
+# HR_ Analytics_Practice
 
 Completing a course in Udemy that is an introduction to HR-Analytics.  The course teaches using R, but I wanted to practice my Python skills, so I have done the whole course using Python.
 
