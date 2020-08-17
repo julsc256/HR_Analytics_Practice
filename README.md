@@ -9,9 +9,11 @@ Completing a course in Udemy that is an introduction to HR-Analytics.  The cours
 4. Feature Engieering
 5. Bi-Variate Analysis
   - Categorial - Categorical
-    - Hypthosis Testing using p-values
+    - Hypthosis Testing using p-values (chi-test)
   - Numerical - Categorical 
     - Understanding boxplot and mean, median, min, and max
+    - Hypothesis Testing using p-values (ANOVA)
+6. Created dummy variables for categorical variables
 
 Will continue to update as I go through the course.
   
