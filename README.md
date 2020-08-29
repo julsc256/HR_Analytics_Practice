@@ -15,6 +15,7 @@ Completing a course in Udemy that is an introduction to HR-Analytics.  The cours
     - Hypothesis Testing using p-values (ANOVA)
 6. Created dummy variables for categorical variables
 7. train_test_split
+8. Notes: Model selections and examples of case studies
 
 Will continue to update as I go through the course.
   
